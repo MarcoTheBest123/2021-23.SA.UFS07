@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/compare/v1.2.0...v1.3.0) (2022-05-10)
+
+
+### Features
+
+* add front-end project ([63356fe](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/63356fe0d1942943f9e9d812918142da3b91e37c))
+
 ## 1.2.0 (2022-05-10)
 
 
