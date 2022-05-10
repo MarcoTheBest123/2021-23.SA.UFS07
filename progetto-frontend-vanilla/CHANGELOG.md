@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/compare/v1.3.0...v1.4.0) (2022-05-10)
+
+
+### Features
+
+* Surge secret ([aea1494](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/aea1494a72e7fc1032e4d33d1ddffc7872150e1b))
+
 ## [1.3.0](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/compare/v1.2.0...v1.3.0) (2022-05-10)
 
 
