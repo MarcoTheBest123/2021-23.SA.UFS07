@@ -1,8 +1,8 @@
 name: Deploy on Surge.sh
 on:
   push:
-    #tags:
-     # - v** # comment this to run on every push for debuggin purposes
+    tags:
+      - v** # comment this to run on every push for debuggin purposes
 jobs:
   build:
       uses: ./.github/workflows/github-actions-demo.yml
@@ -20,3 +20,8 @@ jobs:
           ls -la
           ls -la dist
           cat dist/CHANGELOG.md
+      - name: Deploy on Surge.sh
+        env:
+          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
+          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
+        run: npx -yes surge ./dist dazzling-car.surge.sh
