@@ -15,11 +15,7 @@
     "build-storybook": "build-storybook",
     "build": "cross-env BABEL_ENV=production babel src --copy-files --out-dir dist",
     "build-umd": "cross-env BABEL_ENV=production-umd babel src --copy-files --out-dir dist/umd",
-<<<<<<< HEAD
-    "release": "standard-version -t 'ds'"
-=======
     "release": "standard-version -t 'ds' && git push --follow-tags origin master"
->>>>>>> f5dc1bb21379893b2ac9195fdade3e07c179ee45
   },
   "keywords": [],
   "author": "",
