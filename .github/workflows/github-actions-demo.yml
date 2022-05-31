@@ -37,11 +37,8 @@ jobs:
         working-directory: progetto-frontend-vanilla
         run: |
           npm install
-<<<<<<< HEAD
-=======
           PACKAGE_VERSION=`cat package.json | jq -r '.version'`
           DESIGN_SYSTEM_VERSION=`cat package.json | jq -r '.dependencies["test-1-marco-react"]' | cut -c2-`
->>>>>>> f5dc1bb21379893b2ac9195fdade3e07c179ee45
           npm run build
       - name: Chromatic design-system-react
         working-directory: design-system/react

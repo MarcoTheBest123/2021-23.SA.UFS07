@@ -25,8 +25,4 @@ jobs:
         env:
           SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
           SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
-<<<<<<< HEAD
-        run: npx -yes surge ./dist voiceless-silk.surge.sh
-=======
         run: npx -yes surge ./dist dazzling-car.surge.sh
->>>>>>> f5dc1bb21379893b2ac9195fdade3e07c179ee45
