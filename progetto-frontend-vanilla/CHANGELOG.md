@@ -2,8 +2,75 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-<<<<<<< HEAD
-=======
+## [1.8.0](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/compare/v1.7.3...v1.8.0) (2022-05-31)
+
+
+### Features
+
+* add npx surge deploy step ([804d58b](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/804d58b75af5a48d9aa795e0fbe1f8378a1771da))
+* add Public surge.sh URL ([01e316f](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/01e316f47849f2f3bb02929aa5f2793599e59871))
+* added babelrc ([63f7943](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/63f7943ddf167c61565cbabfb46bc12422bc4ee3))
+* added myself ([b6f32a1](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/b6f32a1099445d146a529e09545379bba613edb8))
+* apply app to index ([94e8fb1](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/94e8fb12739deee1bd5ccb93e8a3ec56cbfd6ebf))
+* apposto ([b4ef284](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/b4ef2842da10fd039c2709a7eeda110cbd2c0285))
+* build pipeline ([f4761c3](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/f4761c3e721b762997f4bb20cf338639a5b97106))
+* change readme ([d5bc27c](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/d5bc27ca23c27da9658aa4d258c981794a63e2fc))
+* changed files ([99e4315](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/99e4315a35c19380cbea69d9f984acbc9d6e25a1))
+* **changelog:** add standard-version package ([9ac16c1](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/9ac16c15dad2c6a5028fc307ba6bcc514576945d))
+* **changelog:** add standard-version release script ([d3ae2fb](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/d3ae2fbd6d76dd15c3dfe1761414cdfc9e7320dc))
+* changes ([6dfcd38](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/6dfcd38791c1b0d08d93e1341a6367c7f2812688))
+* **components-pipeline-1:** init folder structure ([2584147](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/2584147f2b1c93edf70dbfd659501397c5c3cbad))
+* **components-pipeline-1:** move button to atoms ([6e0fd07](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/6e0fd0772f4aa1957e5f53879d43405c49238102))
+* **components-pipeline-1:** move header to molecules ([0864d7d](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/0864d7db4437bdeb2f2ae952b33f4f7c55480a37))
+* **components-pipeline-1:** move page to templates ([6092644](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/6092644109b8f270ebcf5c010684ed6ac2d98041))
+* **components-pipeline-2a:** empty babel production env ([9d2dca7](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/9d2dca70804fa88a12775e4d41f03b17a3fe1b09))
+* **components-pipeline-2a:** setup babelrc development env ([fe7cefb](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/fe7cefbabb5234d36e7b3d45230379b2d74987c8))
+* **components-pipeline-2a:** shared react babel preset ([589b733](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/589b73318a4af36db785c8280aeb3d118784ae99))
+* **components-pipeline-3:** add standard-version ([0af9b06](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/0af9b06ae962985835de46bb2a3f7d08955414be))
+* **components-pipeline-3:** npm setup for publish ([4f07ff8](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/4f07ff804124bf968be080a8e81ec4f29ce2ea10))
+* **components-pipeline-3:** use our published package ([a0e2216](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/a0e22167bf6dfa1b2cb2fd500734e6dffe5c3de5))
+* **components-pipeline-4:** package ([aa9a324](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/aa9a3249102166e6cd0fdeaf74da56dc720b9ad2))
+* **components-pipeline-4:** use our npm package ([ef77a04](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/ef77a04764394efdad0a9538dc4c8e2345d7ef22))
+* **design-system:** add chromatic ([d16c11b](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/d16c11b3fd73406ff9d3b3dba49adf4487efc36f))
+* **design-system:** init ([7185e4e](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/7185e4e00af9a2a3c60d33235ba0c6350736d2a5))
+* **design-system:** sb init ([e83da16](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/e83da16d20cf44caaccd4f2dc94df8b74a527cb6))
+* enable github actions ([baf0bdf](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/baf0bdf6c74bb10f9a8e5cb7fdb4fb1f2476927c))
+* final changes ([87021c2](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/87021c20f861cc341bc16e2350dec20789837aef))
+* fix changes ([2a62788](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/2a62788fee7dc36faee457b3f9f1496bc2f2d81a))
+* fixxed hopefully ([3708078](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/37080788a26642f3125a8c9ba1d47333c469100a))
+* fixxed hopefully ([1589052](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/1589052a85074de36235b4ca9cef9ef115260ed2))
+* modify json ([5dc5560](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/5dc55605dbc3d6099231ecc4d7d6300b672761ae))
+* progetto-frontend-vanilla ([5efbc82](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/5efbc82ab042f5f4ef33fc292f0849052fa7e5b5))
+* **react-101:** React JSX ([ceb4619](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/ceb4619b84a1825a026fd2536d438bf7fbef5458))
+* **react-101:** react no jsx sample ([92d2b59](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/92d2b592306849572c52dfe63dc27281abbd1eea))
+* **react-101:** React renderToStaticMarkup ([92ca551](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/92ca551c350e068839abc04d65d50d59255d07ce))
+* **react-101:** React.Component ([fc17db0](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/fc17db0581877e61e9e01b929e228718480ae446))
+* **react-101:** simple html boilerplate ([3a776c6](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/3a776c6986fb088438f0b45bcece51529c96e129))
+* update gitpod file to point my repo ([b001857](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/b001857f449b4a8d99722668ef627abac9295ee8))
+* vscode as default editor for git ([5ab556f](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/5ab556fa90b6f7289308ff0218276e2b5fc7c634))
+
+
+### Bug Fixes
+
+* added dependencies ([af4f24b](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/af4f24b257e926f4692003c9036b4683d0d0f6e0))
+* change package ([2912a75](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/2912a75b42fa02df65ab753b8479d01dff54289e))
+* **ci-changelog:** run default workflow on every commit ([98a65d4](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/98a65d401cc276ccc0d3d13520dee4bec489bf27))
+* **components-pipeline-2b:** babel CI with artifacts ([de32450](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/de32450cd39622259f622f254450b894da48c661))
+* **components-pipeline-2b:** babel remove prop type plugin ([ab33548](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/ab3354854dc717fc138ba1ccb78c41fe5c301379))
+* **components-pipeline-2b:** fix umd global case of React ([f4004d6](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/f4004d63349d1cd6efbe8365676862323aecc75b))
+* **design-system:** fix deps ([7ee9426](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/7ee9426c7650a7b8d636eab87ce5e2ab07738484))
+* **design-system:** ignore chromatic build-storybook logs ([378997b](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/378997bd9b034e3d0dfa5b28cd2be39815d8cd8a))
+* **design-system:** ignore node_modules ([a72d79c](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/a72d79c9172821b0dee8725ad35abea2f4f21f49))
+* **design-system:** ignore storybook-static ([eb68c8e](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/eb68c8ebc8538bd41855a9c022b757bdcf1bf0be))
+* **gitpod:** reusable setup scripts ([d9a7903](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/d9a79033fd30492e9c133efc952bfafa3079f2d6))
+* index ([a4d6698](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/a4d66988bf78d6e61fb524d8e7da6221ff0ad4e9))
+* index ([da70e06](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/da70e0634df27524629aa91afc9c9abb0c81d8b3))
+* modify webpack.config ([4edac14](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/4edac14ac7947273d81288e7612ed2666ff80a39))
+* non asci dash ([287e83e](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/287e83e3f4f8ad7e21a20ea0f07ec1844521b980))
+* split NVM setup and npm build ([9a5cdde](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/9a5cddea05c87c744e092b70efa3c3f5bde28524))
+* use the right foldername ([93e61c5](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/93e61c5494231fdd52b42a42a5a04afde61d17c2))
+* we cant get all commits for a pr if they are over 100 ([8f649ad](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/8f649ad7d8a7613cbffe90edf4675e9b140304bc))
+
 ### [1.7.3](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/compare/v1.7.2...v1.7.3) (2022-05-31)
 
 ### [1.7.2](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/compare/v1.7.1...v1.7.2) (2022-05-31)
