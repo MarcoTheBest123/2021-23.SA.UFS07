@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/compare/v1.6.0...v1.7.0) (2022-05-31)
+
+
+### Features
+
+* changes ([7f673bb](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/7f673bb306cce8edd926691ff7f60af6ec843a78))
+* modify changes ([b1cb7eb](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/b1cb7eb54ac2bcdfba149be4495c99152a6a1786))
+
 ## 1.6.0 (2022-05-31)
 
 
