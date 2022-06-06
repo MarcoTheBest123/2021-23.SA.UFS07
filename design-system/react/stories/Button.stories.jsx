@@ -17,21 +17,20 @@ const Template = (args) => <Button {...args} />;
 
 export const bottone = Template.bind({});
 // More on args: https://storybook.js.org/docs/react/writing-stories/args
-Primary.args = {
-  primary: true,
+bottone.args = {
   label: 'Button',
   type: 'Button',
 };
 
 export const Submit = Template.bind({});
-Large.args = {
+Submit.args = {
   size: 'large',
   label: 'Submit',
   type: 'submit',
 };
 
 export const Radio = Template.bind({});
-Small.args = {
+Radio.args = {
   size: 'small',
   label: 'Radio',
   type: 'radio',
