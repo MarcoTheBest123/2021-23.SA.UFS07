@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.10.0](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/compare/v1.9.1...v1.10.0) (2022-06-10)
+
+
+### Features
+
+* added input ([ec6e05b](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/ec6e05b32f83599540604683d9ab5018c9a5129a))
+* changed back ([1697f1a](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/1697f1a72cb67363339a8355dd6949e196c98f5e))
+* changed version ([51cd3ff](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/51cd3ff3f7ed2b928ab3ee746050fa943d2b4bc5))
+* changed version ([400e504](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/400e504677cd16d90491fc66e66422a17b246a15))
+* ciao ([f823431](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/f823431aa07cb7b72acd9f723c90e9822b8341a5))
+* ciao ([e316e15](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/e316e15258173f9190c59532a00743d165dfee9a))
+* ciao ([73522be](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/73522bef1b29ea552f4e053b4b92c673d87086ce))
+* modified files ([89ad348](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/commit/89ad34852b625e0bb21a4c031aa36328d1c53697))
+
 ### [1.9.1](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/compare/v1.9.0...v1.9.1) (2022-06-06)
 
 ## [1.9.0](https://github.com/MarcoTheBest123/2021-23.SA.UFS07/compare/v1.8.0...v1.9.0) (2022-06-06)
