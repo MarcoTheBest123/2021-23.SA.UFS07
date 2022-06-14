@@ -1,9 +1,9 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-export const Paragrafo = ({ label }) => {
+export const Paragrafo = ({ children }) => {
     return(
-        <p>{label}</p>
+        <p>{children}</p>
     )
 }
 
