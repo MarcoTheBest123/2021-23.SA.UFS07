@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Paragrafo } from '../src/atoms/paragrafo/Paragrafo';
+import { Paragrafo } from '../src/molecules/paragrafo/Paragrafo';
 
 export default {
     title: 'Example/atoms/Paragrafo',
