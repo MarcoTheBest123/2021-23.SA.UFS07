@@ -9,7 +9,6 @@ export const Paragrafo = ({ children }) => {
 
 Paragrafo.propTypes = {
 
-    label: PropTypes.string.isRequired,
 };
 
 Paragrafo.defaultProps = {
