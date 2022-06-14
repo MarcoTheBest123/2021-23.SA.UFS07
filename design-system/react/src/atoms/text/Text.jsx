@@ -7,7 +7,7 @@ export const Text = ({ label, }) =>{
     )
 }
 
-Text.PropTypes = {
+Text.propTypes = {
 
     label: PropTypes.string.isRequired,
 
