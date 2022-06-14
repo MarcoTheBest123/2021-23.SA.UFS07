@@ -1,13 +1,15 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-export const Text = ({}) =>{
+export const Text = ({ label, }) =>{
     return (
-        <span>ciao mondo</span>
+        <span>{label}</span>
     )
 }
 
 Text.PropTypes = {
+
+    label: PropTypes.string.isRequired,
 
 };
 
