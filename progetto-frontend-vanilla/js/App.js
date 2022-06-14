@@ -1,5 +1,6 @@
 import React from "react";
 import {Button} from "test-1-marco-react/atoms/button/Button"
+import {Input} from "test-1-marco-react/atoms/input/Input"
 
 const App = () => ( 
     <div>
