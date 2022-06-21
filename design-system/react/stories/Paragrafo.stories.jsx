@@ -15,5 +15,11 @@ const Template = (args) => <Paragrafo {...args}></Paragrafo>
 export const PlainParagrafo = Template.bind({});
 
 PlainParagrafo.args = {
-    children: <Text label={'label'}></Text>
+    children: <><Text label={'label'}></Text> <Text label={'label'}></Text></>
+};
+
+export const Plain2Paragrafo = Template.bind({});
+
+Plain2Paragrafo.args = {
+    children: Text(),
 };
