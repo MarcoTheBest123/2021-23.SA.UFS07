@@ -45,14 +45,14 @@ function App() {
       <br/><br/>
 
 
-      <div class="flex justify-center bg-green-600 sm:bg-red-400 md:bg-yellow-400 lg:bg-gray-600 xl:bg-blue-700">
+      <div class="hover:animate-pulse flex justify-center bg-green-600 sm:bg-red-400 md:bg-yellow-400 lg:bg-gray-600 xl:bg-blue-700">
         <div class="mx-4 order-last hidden text-yellow-300 sm:hidden md:block">
-          <img src={music} size="100x100" alt="Logo" />
+          <img class="animate-spin duration-100 " src={music} size="100x100" alt="Logo" />
         </div>
         <div class="mx-4 self-center">
-          <h1 class="text-yellow-600">Welcome to NorthBy</h1>
-          <h2>A premium in sight and sound</h2>
-          <button>Learn More</button>
+          <h1 class="animate-bounce">Welcome to NorthBy</h1>
+          <h2 class="animate-bounce">A premium in sight and sound</h2>
+          <button class="transition-colors duration-1000 bg-red-50 hover:bg-red-400">Learn More</button>
         </div>
       </div>
 
@@ -65,7 +65,7 @@ function App() {
           <img src={music} size="100x100" alt="Logo" />
         </div>
         <div class="mx-4 self-center text-center">
-          <h1 class="text-6xl font-bold text-blue-700">Welcome to NorthBy</h1>
+          <h1 class="text-6xl font-bold transform transition duration-1000 hover:rotate-180 hover:shadow-xl text-blue-700">Welcome to NorthBy</h1>
           <h2 class="text-3xl font-semibold text-blue-300">
             A premium in sight and sound
           </h2>
